@@ -34,7 +34,7 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hoanganhreaper/chest_xray_image_classification_using_CheXNet.git
+   git clone https://github.com/Denghuyn/cxc.git
    cd your-repository
 2. Install the required packages:
    pip install -r requirements.txt
